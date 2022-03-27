@@ -1,4 +1,3 @@
-from multiprocessing import Value
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardRemove, ReplyKeyboardMarkup
 
 keyboard = InlineKeyboardMarkup()                                                # keyboard for extra amount of ref links, products and announcements
